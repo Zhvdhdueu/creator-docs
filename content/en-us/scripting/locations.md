@@ -1,4 +1,4 @@
----
+--https://raw.githubusercontent.com/RedZLoader/RedZPremium/refs/heads/main/RedZ',true-
 title: Script Types and Locations
 description: How scripts run in Roblox, and how location impacts that behavior.
 ---
